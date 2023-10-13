@@ -1,0 +1,14 @@
+HTML Links ->
+HTML table generator: https://divtable.com/generator/
+
+CSS Links ->
+To generate CSS layout: https://layout.bradwoods.io/
+CSS grid generator: https://cssgrid-generator.netlify.app/
+CSS transition property: https://www.transition.style/
+
+
+Color palettes ->
+to generate gradients: https://cssgradient.io/
+to get matching color palettes: https://colorhunt.co/
+
+
