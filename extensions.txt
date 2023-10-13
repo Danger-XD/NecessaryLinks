@@ -1,0 +1,6 @@
+To see the structures of a website: Toggle Pesticide
+To know which font is used on the website: WhatFont
+To know what color is used on the website: ColorZilla
+To measure something on a website like image or card size: 1. Dimensions  or 2. Page Ruler
+
+Search them on Chrome extension -> install -> use
